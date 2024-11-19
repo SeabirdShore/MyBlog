@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkakara=self.webpackChunkakara||[]).push([[508],{7757:a=>{a.exports=JSON.parse('{"name":"docusaurus-theme-search-algolia","id":"default"}')}}]);

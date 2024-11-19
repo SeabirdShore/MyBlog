@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://SeabirdShore.github.io/MyBlog/blog</id>
+    <title>#XIAO_Sibo Blog</title>
+    <updated>2024-11-19T12:03:42.453Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://SeabirdShore.github.io/MyBlog/blog"/>
+    <subtitle>#XIAO_Sibo Blog</subtitle>
+    <icon>https://SeabirdShore.github.io/MyBlog/img/cindyico.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[刻在基石上的文字]]></title>
+        <id>https://SeabirdShore.github.io/MyBlog/blog/刻在基石上的文字</id>
+        <link href="https://SeabirdShore.github.io/MyBlog/blog/刻在基石上的文字"/>
+        <updated>2024-11-19T12:03:42.453Z</updated>
+        <summary type="html"><![CDATA[在此之前]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="在此之前">在此之前<a href="#在此之前" class="hash-link" aria-label="在此之前的直接链接" title="在此之前的直接链接">​</a></h2><p>在搭建本网页之前，我使用过Hexo和Mkdocs搭建过个人网站，但是这两个框架都有过分风格化的特点并且都用的比较普遍以至于普通了；我想尝试些不一样的东西。</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="契机">契机<a href="#契机" class="hash-link" aria-label="契机的直接链接" title="契机的直接链接">​</a></h2><p>某个阳光明媚的下午，李四老师问窝有没有个人网站。这时我之前的搭建过的网站已经删库了，所以突然萌生了正式搭建并长期维护一个个人网站的想法</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[something]]></title>
+        <id>https://SeabirdShore.github.io/MyBlog/blog/something</id>
+        <link href="https://SeabirdShore.github.io/MyBlog/blog/something"/>
+        <updated>2024-11-17T03:24:53.166Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[to do]]></title>
+        <id>https://SeabirdShore.github.io/MyBlog/blog/to do</id>
+        <link href="https://SeabirdShore.github.io/MyBlog/blog/to do"/>
+        <updated>2024-11-16T06:53:20.650Z</updated>
+    </entry>
+</feed>

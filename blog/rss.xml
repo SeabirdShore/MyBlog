@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>#XIAO_Sibo Blog</title>
+        <link>https://SeabirdShore.github.io/MyBlog/blog</link>
+        <description>#XIAO_Sibo Blog</description>
+        <lastBuildDate>Tue, 19 Nov 2024 12:03:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[刻在基石上的文字]]></title>
+            <link>https://SeabirdShore.github.io/MyBlog/blog/刻在基石上的文字</link>
+            <guid>https://SeabirdShore.github.io/MyBlog/blog/刻在基石上的文字</guid>
+            <pubDate>Tue, 19 Nov 2024 12:03:42 GMT</pubDate>
+            <description><![CDATA[在此之前]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="在此之前">在此之前<a href="#在此之前" class="hash-link" aria-label="在此之前的直接链接" title="在此之前的直接链接">​</a></h2><p>在搭建本网页之前，我使用过Hexo和Mkdocs搭建过个人网站，但是这两个框架都有过分风格化的特点并且都用的比较普遍以至于普通了；我想尝试些不一样的东西。</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="契机">契机<a href="#契机" class="hash-link" aria-label="契机的直接链接" title="契机的直接链接">​</a></h2><p>某个阳光明媚的下午，李四老师问窝有没有个人网站。这时我之前的搭建过的网站已经删库了，所以突然萌生了正式搭建并长期维护一个个人网站的想法</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[something]]></title>
+            <link>https://SeabirdShore.github.io/MyBlog/blog/something</link>
+            <guid>https://SeabirdShore.github.io/MyBlog/blog/something</guid>
+            <pubDate>Sun, 17 Nov 2024 03:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[to do]]></title>
+            <link>https://SeabirdShore.github.io/MyBlog/blog/to do</link>
+            <guid>https://SeabirdShore.github.io/MyBlog/blog/to do</guid>
+            <pubDate>Sat, 16 Nov 2024 06:53:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
